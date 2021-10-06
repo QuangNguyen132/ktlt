@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Debug\ThucHanh.Dothi.resources
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Debug\ThucHanh.Dulieu.resources
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Debug\ThucHanh.MyForm.resources
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Debug\ThucHanh.vcxproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Debug\ThucHanh.vcxproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+﻿  Dothi.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.cpp
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Dulieu.h(396,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\DELL\source\repos\ThucHanh\ThucHanh\Dulieu.h(416,21): warning C4101: 'ex': unreferenced local variable
+  Dothi.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ThucHanh.vcxproj -> C:\Users\DELL\source\repos\ThucHanh\Debug\ThucHanh.exe

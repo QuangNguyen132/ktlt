@@ -1,0 +1,2447 @@
+
+Thoi gian: 02:50:53
+Gia tri: 8
+Do am: 6
+-----------------
+Thoi gian: 02:50:54
+Gia tri: 6
+Do am: 6
+-----------------
+Thoi gian: 02:50:55
+Gia tri: 1
+Do am: 4
+-----------------
+Thoi gian: 02:50:56
+Gia tri: 5
+Do am: 5
+-----------------
+Thoi gian: 02:50:57
+Gia tri: 4
+Do am: 5
+-----------------
+Thoi gian: 02:50:58
+Gia tri: 6
+Do am: 3
+-----------------
+Thoi gian: 02:50:59
+Gia tri: 8
+Do am: 4
+-----------------
+Thoi gian: 02:51:09
+Gia tri: 7
+Do am: 5
+-----------------
+Thoi gian: 02:51:10
+Gia tri: 1
+Do am: 6
+-----------------
+Thoi gian: 02:51:11
+Gia tri: 1
+Do am: 9
+-----------------
+Thoi gian: 02:51:12
+Gia tri: 2
+Do am: 2
+-----------------
+Thoi gian: 02:51:13
+Gia tri: 4
+Do am: 3
+-----------------
+Thoi gian: 02:51:26
+Gia tri: 9
+Do am: 2
+-----------------
+Thoi gian: 02:51:27
+Gia tri: 2
+Do am: 6
+-----------------
+Thoi gian: 02:51:28
+Gia tri: 8
+Do am: 6
+-----------------
+Thoi gian: 02:51:29
+Gia tri: 3
+Do am: 8
+-----------------
+Thoi gian: 02:51:30
+Gia tri: 3
+Do am: 8
+-----------------
+Thoi gian: 02:51:31
+Gia tri: 2
+Do am: 1
+-----------------
+Thoi gian: 02:51:32
+Gia tri: 9
+Do am: 8
+-----------------
+Thoi gian: 02:51:33
+Gia tri: 9
+Do am: 5
+-----------------
+Thoi gian: 02:51:34
+Gia tri: 5
+Do am: 2
+-----------------
+Thoi gian: 02:51:35
+Gia tri: 1
+Do am: 3
+-----------------
+Thoi gian: 03:03:51
+Gia tri: 1
+Do am: 2
+-----------------
+Thoi gian: 03:03:52
+Gia tri: 6
+Do am: 4
+-----------------
+Thoi gian: 03:03:52
+Gia tri: 5
+Do am: 3
+-----------------
+Thoi gian: 03:03:53
+Gia tri: 5
+Do am: 7
+-----------------
+Thoi gian: 03:04:22
+Gia tri: 1
+Do am: 6
+-----------------
+Thoi gian: 03:04:23
+Gia tri: 6
+Do am: 5
+-----------------
+Thoi gian: 03:04:24
+Gia tri: 6
+Do am: 5
+-----------------
+Thoi gian: 03:04:25
+Gia tri: 8
+Do am: 7
+-----------------
+Thoi gian: 03:04:26
+Gia tri: 3
+Do am: 6
+-----------------
+Thoi gian: 03:04:27
+Gia tri: 6
+Do am: 6
+-----------------
+Thoi gian: 03:04:28
+Gia tri: 8
+Do am: 8
+-----------------
+Thoi gian: 03:04:29
+Gia tri: 1
+Do am: 9
+-----------------
+Thoi gian: 03:04:30
+Gia tri: 7
+Do am: 3
+-----------------
+Thoi gian: 03:04:31
+Gia tri: 1
+Do am: 9
+-----------------
+Thoi gian: 03:04:32
+Gia tri: 7
+Do am: 7
+-----------------
+Thoi gian: 03:04:33
+Gia tri: 8
+Do am: 2
+-----------------
+Thoi gian: 03:04:34
+Gia tri: 1
+Do am: 1
+-----------------
+Thoi gian: 03:04:35
+Gia tri: 5
+Do am: 9
+-----------------
+Thoi gian: 03:04:36
+Gia tri: 6
+Do am: 9
+-----------------
+Thoi gian: 03:04:37
+Gia tri: 8
+Do am: 1
+-----------------
+Thoi gian: 03:04:38
+Gia tri: 6
+Do am: 1
+-----------------
+Thoi gian: 03:04:39
+Gia tri: 6
+Do am: 6
+-----------------
+Thoi gian: 03:04:40
+Gia tri: 6
+Do am: 2
+-----------------
+Thoi gian: 03:04:41
+Gia tri: 9
+Do am: 5
+-----------------
+Thoi gian: 03:04:42
+Gia tri: 5
+Do am: 5
+-----------------
+Thoi gian: 03:04:43
+Gia tri: 1
+Do am: 1
+-----------------
+Thoi gian: 03:04:48
+Gia tri: 2
+Do am: 8
+-----------------
+Thoi gian: 03:04:49
+Gia tri: 6
+Do am: 6
+-----------------
+Thoi gian: 03:04:50
+Gia tri: 7
+Do am: 6
+-----------------
+Thoi gian: 03:04:51
+Gia tri: 7
+Do am: 6
+-----------------
+Thoi gian: 03:04:52
+Gia tri: 5
+Do am: 9
+-----------------
+Thoi gian: 03:04:53
+Gia tri: 3
+Do am: 7
+-----------------
+Thoi gian: 03:04:54
+Gia tri: 5
+Do am: 7
+-----------------
+Thoi gian: 03:04:55
+Gia tri: 5
+Do am: 3
+-----------------
+Thoi gian: 03:04:56
+Gia tri: 1
+Do am: 9
+-----------------
+Thoi gian: 03:04:57
+Gia tri: 5
+Do am: 4
+-----------------
+Thoi gian: 03:04:58
+Gia tri: 5
+Do am: 4
+-----------------
+Thoi gian: 03:04:59
+Gia tri: 8
+Do am: 7
+-----------------
+Thoi gian: 03:05:00
+Gia tri: 4
+Do am: 2
+-----------------
+Thoi gian: 03:05:01
+Gia tri: 8
+Do am: 7
+-----------------
+Thoi gian: 03:05:02
+Gia tri: 6
+Do am: 4
+-----------------
+Thoi gian: 03:05:03
+Gia tri: 8
+Do am: 1
+-----------------
+Thoi gian: 03:05:04
+Gia tri: 1
+Do am: 6
+-----------------
+Thoi gian: 03:05:05
+Gia tri: 9
+Do am: 2
+-----------------
+Thoi gian: 03:05:06
+Gia tri: 1
+Do am: 6
+-----------------
+Thoi gian: 03:05:07
+Gia tri: 1
+Do am: 1
+-----------------
+Thoi gian: 03:05:08
+Gia tri: 2
+Do am: 4
+-----------------
+Thoi gian: 03:05:09
+Gia tri: 8
+Do am: 8
+-----------------
+Thoi gian: 10:43:37
+Gia tri: 2
+Do am: 2
+-----------------
+Thoi gian: 10:43:38
+Gia tri: 6
+Do am: 1
+-----------------
+Thoi gian: 10:43:39
+Gia tri: 4
+Do am: 6
+-----------------
+Thoi gian: 10:43:40
+Gia tri: 4
+Do am: 3
+-----------------
+Thoi gian: 10:43:41
+Gia tri: 7
+Do am: 3
+-----------------
+Thoi gian: 10:43:42
+Gia tri: 6
+Do am: 5
+-----------------
+Thoi gian: 10:43:43
+Gia tri: 9
+Do am: 6
+-----------------
+Thoi gian: 10:43:44
+Gia tri: 3
+Do am: 6
+-----------------
+Thoi gian: 10:43:45
+Gia tri: 3
+Do am: 3
+-----------------
+Thoi gian: 10:50:41
+Gia tri: 2
+Do am: 2
+-----------------
+Thoi gian: 10:50:42
+Gia tri: 6
+Do am: 4
+-----------------
+Thoi gian: 10:50:43
+Gia tri: 9
+Do am: 8
+-----------------
+Thoi gian: 10:50:44
+Gia tri: 8
+Do am: 8
+-----------------
+Thoi gian: 10:50:45
+Gia tri: 7
+Do am: 3
+-----------------
+Thoi gian: 10:50:46
+Gia tri: 9
+Do am: 1
+-----------------
+Thoi gian: 10:50:47
+Gia tri: 2
+Do am: 3
+-----------------
+Thoi gian: 10:50:48
+Gia tri: 7
+Do am: 3
+-----------------
+Thoi gian: 10:50:49
+Gia tri: 9
+Do am: 8
+-----------------
+Thoi gian: 10:50:50
+Gia tri: 6
+Do am: 5
+-----------------
+Thoi gian: 10:50:51
+Gia tri: 4
+Do am: 4
+-----------------
+Thoi gian: 10:50:52
+Gia tri: 2
+Do am: 4
+-----------------
+Thoi gian: 10:50:53
+Gia tri: 8
+Do am: 4
+-----------------
+Thoi gian: 10:50:54
+Gia tri: 6
+Do am: 1
+-----------------
+Thoi gian: 10:50:55
+Gia tri: 4
+Do am: 3
+-----------------
+Thoi gian: 10:50:56
+Gia tri: 2
+Do am: 7
+-----------------
+Thoi gian: 10:50:57
+Gia tri: 2
+Do am: 9
+-----------------
+Thoi gian: 10:50:58
+Gia tri: 1
+Do am: 7
+-----------------
+Thoi gian: 10:50:59
+Gia tri: 9
+Do am: 6
+-----------------
+Thoi gian: 10:52:13
+Gia tri: 2
+Do am: 3
+-----------------
+Thoi gian: 10:52:14
+Gia tri: 4
+Do am: 1
+-----------------
+Thoi gian: 10:52:15
+Gia tri: 5
+Do am: 8
+-----------------
+Thoi gian: 10:52:16
+Gia tri: 8
+Do am: 2
+-----------------
+Thoi gian: 10:52:17
+Gia tri: 9
+Do am: 8
+-----------------
+Thoi gian: 10:52:18
+Gia tri: 8
+Do am: 7
+-----------------
+Thoi gian: 10:52:40
+Gia tri: 3
+Do am: 7
+-----------------
+Thoi gian: 10:52:41
+Gia tri: 8
+Do am: 3
+-----------------
+Thoi gian: 10:52:42
+Gia tri: 6
+Do am: 7
+-----------------
+Thoi gian: 10:52:43
+Gia tri: 8
+Do am: 8
+-----------------
+Thoi gian: 10:52:44
+Gia tri: 5
+Do am: 8
+-----------------
+Thoi gian: 10:53:09
+Gia tri: 3
+Do am: 8
+-----------------
+Thoi gian: 10:53:10
+Gia tri: 3
+Do am: 8
+-----------------
+Thoi gian: 10:53:11
+Gia tri: 8
+Do am: 7
+-----------------
+Thoi gian: 10:53:12
+Gia tri: 1
+Do am: 3
+-----------------
+Thoi gian: 10:53:13
+Gia tri: 3
+Do am: 9
+-----------------
+Thoi gian: 10:54:52
+Gia tri: 9
+Do am: 5
+-----------------
+Thoi gian: 10:54:53
+Gia tri: 3
+Do am: 6
+-----------------
+Thoi gian: 10:54:54
+Gia tri: 7
+Do am: 1
+-----------------
+Thoi gian: 10:54:55
+Gia tri: 7
+Do am: 5
+-----------------
+Thoi gian: 10:54:56
+Gia tri: 1
+Do am: 4
+-----------------
+Thoi gian: 10:55:57
+Gia tri: 7
+Do am: 3
+-----------------
+Thoi gian: 10:55:58
+Gia tri: 6
+Do am: 3
+-----------------
+Thoi gian: 10:55:59
+Gia tri: 5
+Do am: 4
+-----------------
+Thoi gian: 10:56:00
+Gia tri: 3
+Do am: 6
+-----------------
+Thoi gian: 10:56:01
+Gia tri: 7
+Do am: 6
+-----------------
+Thoi gian: 10:56:02
+Gia tri: 7
+Do am: 2
+-----------------
+Thoi gian: 10:56:03
+Gia tri: 6
+Do am: 6
+-----------------
+Thoi gian: 10:56:04
+Gia tri: 7
+Do am: 9
+-----------------
+Thoi gian: 10:56:40
+Gia tri: 9
+Do am: 6
+-----------------
+Thoi gian: 10:56:41
+Gia tri: 4
+Do am: 1
+-----------------
+Thoi gian: 10:56:42
+Gia tri: 7
+Do am: 1
+-----------------
+Thoi gian: 10:56:43
+Gia tri: 3
+Do am: 8
+-----------------
+Thoi gian: 10:56:44
+Gia tri: 6
+Do am: 2
+-----------------
+Thoi gian: 10:56:45
+Gia tri: 3
+Do am: 3
+-----------------
+Thoi gian: 10:57:58
+Gia tri: 2
+Do am: 4
+-----------------
+Thoi gian: 10:57:59
+Gia tri: 4
+Do am: 2
+-----------------
+Thoi gian: 10:58:00
+Gia tri: 8
+Do am: 5
+-----------------
+Thoi gian: 10:58:01
+Gia tri: 8
+Do am: 5
+-----------------
+Thoi gian: 12:00:12
+Gia tri: 2
+Do am: 2
+-----------------
+Thoi gian: 12:00:13
+Gia tri: 7
+Do am: 5
+-----------------
+Thoi gian: 12:00:14
+Gia tri: 4
+Do am: 6
+-----------------
+Thoi gian: 12:00:15
+Gia tri: 4
+Do am: 3
+-----------------
+Thoi gian: 12:00:16
+Gia tri: 2
+Do am: 4
+-----------------
+Thoi gian: 12:00:17
+Gia tri: 6
+Do am: 5
+-----------------
+Thoi gian: 12:00:18
+Gia tri: 9
+Do am: 6
+-----------------
+Thoi gian: 12:00:19
+Gia tri: 7
+Do am: 7
+-----------------
+Thoi gian: 12:00:20
+Gia tri: 3
+Do am: 3
+-----------------
+Thoi gian: 12:00:21
+Gia tri: 4
+Do am: 3
+-----------------
+Thoi gian: 12:00:22
+Gia tri: 9
+Do am: 6
+-----------------
+Thoi gian: 11:08:38
+Gia tri: 0
+Do am: 0
+-----------------
+Thoi gian: 11:08:38
+Gia tri: 0
+Do am: 0
+-----------------
+Thoi gian: 11:08:39
+Gia tri: 0
+Do am: 0
+-----------------
+Thoi gian: 11:08:40
+Gia tri: 0
+Do am: 0
+-----------------
+Thoi gian: 11:10:11
+Gia tri: 40
+Do am: 33
+-----------------
+Thoi gian: 11:10:12
+Gia tri: 40
+Do am: 33
+-----------------
+Thoi gian: 11:10:13
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:14
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:15
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:16
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:17
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:18
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:19
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:20
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:21
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:22
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:23
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:24
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:25
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:26
+Gia tri: 39
+Do am: 33
+-----------------
+Thoi gian: 11:10:27
+Gia tri: 40
+Do am: 33
+-----------------
+Thoi gian: 11:10:28
+Gia tri: 40
+Do am: 33
+-----------------
+Thoi gian: 11:10:29
+Gia tri: 50
+Do am: 33
+-----------------
+Thoi gian: 11:10:30
+Gia tri: 50
+Do am: 33
+-----------------
+Thoi gian: 11:10:31
+Gia tri: 54
+Do am: 33
+-----------------
+Thoi gian: 11:10:32
+Gia tri: 54
+Do am: 33
+-----------------
+Thoi gian: 11:10:33
+Gia tri: 50
+Do am: 33
+-----------------
+Thoi gian: 11:10:34
+Gia tri: 50
+Do am: 33
+-----------------
+Thoi gian: 11:10:35
+Gia tri: 50
+Do am: 33
+-----------------
+Thoi gian: 11:10:36
+Gia tri: 51
+Do am: 33
+-----------------
+Thoi gian: 11:10:37
+Gia tri: 51
+Do am: 33
+-----------------
+Ngay : 11:16:06
+Thoi gian: 11:16:06
+Gia tri: 55
+Do am: 33
+-----------------
+Ngay : 11:16:07
+Thoi gian: 11:16:07
+Gia tri: 55
+Do am: 33
+-----------------
+Ngay : 11:16:08
+Thoi gian: 11:16:08
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:09
+Thoi gian: 11:16:09
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:10
+Thoi gian: 11:16:10
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:11
+Thoi gian: 11:16:11
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:12
+Thoi gian: 11:16:12
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:13
+Thoi gian: 11:16:13
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:14
+Thoi gian: 11:16:14
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:15
+Thoi gian: 11:16:15
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:16:16
+Thoi gian: 11:16:16
+Gia tri: 40
+Do am: 33
+-----------------
+Ngay : 11:18:14
+Thoi gian: 11:18:14
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:15
+Thoi gian: 11:18:15
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:16
+Thoi gian: 11:18:16
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:17
+Thoi gian: 11:18:17
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:18
+Thoi gian: 11:18:18
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:19
+Thoi gian: 11:18:19
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:20
+Thoi gian: 11:18:20
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:21
+Thoi gian: 11:18:21
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:22
+Thoi gian: 11:18:22
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 11:18:23
+Thoi gian: 11:18:23
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:24
+Thoi gian: 11:18:24
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:25
+Thoi gian: 11:18:25
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:26
+Thoi gian: 11:18:26
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:27
+Thoi gian: 11:18:27
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:28
+Thoi gian: 11:18:28
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:29
+Thoi gian: 11:18:29
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 11:18:30
+Thoi gian: 11:18:30
+Gia tri: 33
+Do am: 63
+-----------------
+Ngay : 11:18:31
+Thoi gian: 11:18:31
+Gia tri: 33
+Do am: 63
+-----------------
+Ngay : 11:18:32
+Thoi gian: 11:18:32
+Gia tri: 33
+Do am: 66
+-----------------
+Ngay : 11:18:33
+Thoi gian: 11:18:33
+Gia tri: 33
+Do am: 66
+-----------------
+Ngay : 11:18:34
+Thoi gian: 11:18:34
+Gia tri: 33
+Do am: 62
+-----------------
+Ngay : 11:18:35
+Thoi gian: 11:18:35
+Gia tri: 33
+Do am: 62
+-----------------
+Ngay : 11:18:36
+Thoi gian: 11:18:36
+Gia tri: 33
+Do am: 59
+-----------------
+Ngay : 11:18:37
+Thoi gian: 11:18:37
+Gia tri: 33
+Do am: 59
+-----------------
+Ngay : 11:18:38
+Thoi gian: 11:18:38
+Gia tri: 33
+Do am: 59
+-----------------
+Ngay : 11:18:39
+Thoi gian: 11:18:39
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 11:18:40
+Thoi gian: 11:18:40
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 11:18:41
+Thoi gian: 11:18:41
+Gia tri: 33
+Do am: 52
+-----------------
+Ngay : 11:18:42
+Thoi gian: 11:18:42
+Gia tri: 33
+Do am: 52
+-----------------
+Ngay : 11:18:43
+Thoi gian: 11:18:43
+Gia tri: 33
+Do am: 49
+-----------------
+Ngay : 11:18:44
+Thoi gian: 11:18:44
+Gia tri: 33
+Do am: 49
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:51
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:52
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:53
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:54
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:55
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:56
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:57
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:58
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:20:59
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:00
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:01
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:02
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:03
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:04
+Gia tri: 33
+Do am: 55
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:05
+Gia tri: 33
+Do am: 55
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:06
+Gia tri: 33
+Do am: 55
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:07
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:08
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:09
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:10
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:11
+Gia tri: 33
+Do am: 50
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:12
+Gia tri: 33
+Do am: 50
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:13
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:14
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:15
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:16
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:17
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:18
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:19
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:20
+Gia tri: 33
+Do am: 60
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:21
+Gia tri: 33
+Do am: 60
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:22
+Gia tri: 33
+Do am: 58
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:23
+Gia tri: 33
+Do am: 58
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:24
+Gia tri: 33
+Do am: 58
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:25
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:26
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:27
+Gia tri: 33
+Do am: 55
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:28
+Gia tri: 33
+Do am: 55
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:21:29
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:28:55
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:28:56
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:28:57
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:28:58
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:28:59
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:29:00
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:29:01
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:29:02
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:29:03
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:01
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:02
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:03
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:04
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:05
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:06
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:07
+Gia tri: 33
+Do am: 40
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:08
+Gia tri: 33
+Do am: 47
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:09
+Gia tri: 33
+Do am: 47
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:10
+Gia tri: 33
+Do am: 63
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:11
+Gia tri: 33
+Do am: 63
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:12
+Gia tri: 33
+Do am: 61
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:13
+Gia tri: 33
+Do am: 61
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:14
+Gia tri: 33
+Do am: 59
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:15
+Gia tri: 33
+Do am: 59
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:16
+Gia tri: 33
+Do am: 59
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:17
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:18
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:19
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:20
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:21
+Gia tri: 33
+Do am: 54
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:22
+Gia tri: 33
+Do am: 54
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:23
+Gia tri: 33
+Do am: 52
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:24
+Gia tri: 33
+Do am: 52
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:25
+Gia tri: 33
+Do am: 52
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:26
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:27
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 11:30:28
+Gia tri: 33
+Do am: 50
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:52
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:53
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:53
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:54
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:55
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:56
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:57
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:58
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:15:59
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:00
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:01
+Gia tri: 33
+Do am: 0
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:28
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:29
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:30
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:31
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:32
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:16:33
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:24
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:25
+Gia tri: 33
+Do am: 41
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:26
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:27
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:28
+Gia tri: 33
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:29
+Gia tri: 33
+Do am: 68
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:17:30
+Gia tri: 33
+Do am: 68
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:21
+Gia tri: 33
+Do am: 70
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:22
+Gia tri: 33
+Do am: 70
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:23
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:24
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:25
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:26
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:27
+Gia tri: 33
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:28
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:29
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:30
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:31
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:32
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:33
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:34
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:35
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:36
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:37
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:38
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:39
+Gia tri: 33
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:18:40
+Gia tri: 33
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:32
+Gia tri: 33
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:33
+Gia tri: 33
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:34
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:35
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:36
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:37
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:38
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:39
+Gia tri: 33
+Do am: 42
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:40
+Gia tri: 33
+Do am: 42
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:41
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:42
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:43
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:44
+Gia tri: 33
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:45
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:46
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:47
+Gia tri: 33
+Do am: 53
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:48
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:49
+Gia tri: 33
+Do am: 51
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:50
+Gia tri: 33
+Do am: 49
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:51
+Gia tri: 33
+Do am: 49
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:52
+Gia tri: 33
+Do am: 47
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:53
+Gia tri: 33
+Do am: 47
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:54
+Gia tri: 33
+Do am: 46
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:28:55
+Gia tri: 33
+Do am: 46
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:14
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:15
+Gia tri: 33
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:16
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:17
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:18
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:19
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:30:20
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:31:41
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:31:42
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:31:43
+Gia tri: 33
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:31:44
+Gia tri: 33
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:31:45
+Gia tri: 33
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:31:46
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:02
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:03
+Gia tri: 33
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:04
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:05
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:06
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:07
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:08
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:09
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:10
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:11
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:12
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:13
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:14
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:15
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 03:36:16
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:25
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:26
+Gia tri: 34
+Do am: 38
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:27
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:28
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:29
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:30
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:31
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:03:32
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:24
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:25
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:26
+Gia tri: 33
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:27
+Gia tri: 33
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:28
+Gia tri: 33
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:29
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:30
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:31
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:32
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:33
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:34
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:35
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:36
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:37
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:38
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:39
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:40
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:41
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:42
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:43
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:44
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:45
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:46
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:47
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:48
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:53
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:54
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:55
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:56
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:57
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:58
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:04:59
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:00
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:01
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:02
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:03
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:04
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:05
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:06
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:07
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:08
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:09
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:10
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:11
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:12
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:13
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:14
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:15
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:16
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:17
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:18
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:19
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:20
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:21
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:22
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:23
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:24
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:25
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:26
+Gia tri: 34
+Do am: 37
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:27
+Gia tri: 34
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:28
+Gia tri: 34
+Do am: 57
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:29
+Gia tri: 34
+Do am: 69
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:30
+Gia tri: 34
+Do am: 69
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:31
+Gia tri: 34
+Do am: 79
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:32
+Gia tri: 34
+Do am: 79
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:33
+Gia tri: 34
+Do am: 77
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:34
+Gia tri: 34
+Do am: 77
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:35
+Gia tri: 34
+Do am: 79
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:36
+Gia tri: 34
+Do am: 79
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:37
+Gia tri: 34
+Do am: 79
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:38
+Gia tri: 34
+Do am: 77
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:39
+Gia tri: 34
+Do am: 77
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:40
+Gia tri: 34
+Do am: 76
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:41
+Gia tri: 34
+Do am: 76
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:42
+Gia tri: 34
+Do am: 75
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:43
+Gia tri: 34
+Do am: 75
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:44
+Gia tri: 34
+Do am: 73
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:45
+Gia tri: 34
+Do am: 73
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:46
+Gia tri: 34
+Do am: 73
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:50
+Gia tri: 34
+Do am: 70
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:51
+Gia tri: 34
+Do am: 70
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:52
+Gia tri: 34
+Do am: 68
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:53
+Gia tri: 34
+Do am: 68
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:54
+Gia tri: 34
+Do am: 68
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:55
+Gia tri: 34
+Do am: 67
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:56
+Gia tri: 34
+Do am: 67
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:57
+Gia tri: 34
+Do am: 65
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:58
+Gia tri: 34
+Do am: 65
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:05:59
+Gia tri: 34
+Do am: 62
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:00
+Gia tri: 34
+Do am: 62
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:01
+Gia tri: 34
+Do am: 60
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:02
+Gia tri: 34
+Do am: 60
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:03
+Gia tri: 34
+Do am: 58
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:04
+Gia tri: 34
+Do am: 58
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:05
+Gia tri: 34
+Do am: 58
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:06
+Gia tri: 34
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:07
+Gia tri: 34
+Do am: 56
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:08
+Gia tri: 34
+Do am: 54
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:09
+Gia tri: 34
+Do am: 54
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:10
+Gia tri: 34
+Do am: 52
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:11
+Gia tri: 34
+Do am: 52
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:12
+Gia tri: 34
+Do am: 50
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:13
+Gia tri: 34
+Do am: 50
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:14
+Gia tri: 34
+Do am: 50
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:15
+Gia tri: 34
+Do am: 49
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:16
+Gia tri: 34
+Do am: 49
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:17
+Gia tri: 34
+Do am: 47
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:18
+Gia tri: 34
+Do am: 47
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:19
+Gia tri: 34
+Do am: 46
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:20
+Gia tri: 34
+Do am: 46
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:21
+Gia tri: 34
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:22
+Gia tri: 34
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:23
+Gia tri: 34
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:24
+Gia tri: 34
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:25
+Gia tri: 34
+Do am: 45
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:26
+Gia tri: 34
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:27
+Gia tri: 34
+Do am: 44
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:28
+Gia tri: 34
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:29
+Gia tri: 34
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:30
+Gia tri: 34
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:31
+Gia tri: 34
+Do am: 43
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:32
+Gia tri: 34
+Do am: 42
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:33
+Gia tri: 34
+Do am: 42
+-----------------
+Ngay : 23/06/2021
+Thoi gian: 04:06:34
+Gia tri: 34
+Do am: 42
+-----------------
